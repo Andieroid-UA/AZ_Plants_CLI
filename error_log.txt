@@ -1,0 +1,2 @@
+system temporary path is world-writable: /tmp
+/tmp is world-writable: /tmp
